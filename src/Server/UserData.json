@@ -1,0 +1,44 @@
+{
+  "UserData": [
+    {
+      "id": 1,
+      "email": "anu@gmail.com",
+      "password": "Bansal@1234",
+      "contact": "2225465876",
+      "image": "./Images/user3.png",
+      "name": "Anushka"
+    },
+    {
+      "id": 2,
+      "email": "abhi@gmail.com",
+      "password": "Bansal@1234",
+      "contact": "2225465876",
+      "image": "./Images/user2.png",
+      "name": "Abhinav"
+    },
+    {
+      "id": 3,
+      "email": "rupali@gmail.com",
+      "password": "Bansal@1234",
+      "contact": "9876423495",
+      "image": "./Images/user4.png",
+      "name": "Rupali"
+    },
+    {
+      "id": 4,
+      "email": "anshi@gmail.com",
+      "password": "Bansal@1234",
+      "name": "Ankesh",
+      "contact": "9834567589",
+      "image": "./Images/user1.png"
+    },
+    {
+      "id": 5,
+      "email": "shak@gmail.com",
+      "newpass": "Anu@1234",
+      "contact": "8755432235",
+      "image": "./Images/user5.png",
+      "name": "Shakti"
+    }
+  ]
+}
